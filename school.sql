@@ -8,6 +8,6 @@ CREATE TABLE IF NOT EXISTS students (
 );
 
 INSERT INTO students (name, course) VALUES
-  ('Ana Reyes', 'BSIT'),
-  ('Ben Cruz', 'BSCS'),
-  ('Carla Diaz', 'BSIS');
+  ('Ana Reyes','BSIT'),
+  ('Ben Cruz','BSCS'),
+  ('Carla Diaz','BSIS');
